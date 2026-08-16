@@ -1,3 +1,17 @@
-Portfolio site template
+# Shaoze Ying — Analytics Portfolio
 
-Generated with Claude Code
+A responsive personal portfolio that connects a finance and computer science
+background with graduate study in business analytics.
+
+## View locally
+
+Open `index.html` in any modern browser. The site has no build step or external
+dependencies.
+
+## Customize
+
+- Replace the initials graphic with a professional photo if desired.
+- Keep the verified LinkedIn and GitHub links current.
+- Replace the in-development cards as completed analytics case studies become
+  available.
+- Keep `.env` private; it is not used by the public website.
